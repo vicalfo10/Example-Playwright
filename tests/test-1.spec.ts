@@ -1,6 +1,6 @@
 import { test, expect } from '@playwright/test';
 
-test('test', async ({ page }) => {
+test('Test of Playwright the page of kash latam', async ({ page }) => {
 
   await page.goto('https://kashlatam.com/');
 
