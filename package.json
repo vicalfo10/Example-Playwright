@@ -1,0 +1,21 @@
+{
+  "name": "example-playwright",
+  "version": "1.0.0",
+  "description": "Example e2e whit Playwright",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vicalfo10/Example-Playwright.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vicalfo10/Example-Playwright/issues"
+  },
+  "homepage": "https://github.com/vicalfo10/Example-Playwright#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.27.1"
+  }
+}
